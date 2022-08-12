@@ -6,3 +6,5 @@ app.get('/', (req, res) => res.send('LUMINI IT'));
 
 app.listen(port);
 console.log(`App running on http://localhost:${port}`);
+
+// aleraçõ
